@@ -1,5 +1,6 @@
 import React from 'react'
 import { Card } from './Card'
+import axios from 'axios'
 
 export const Main = () => {
     return (
@@ -16,7 +17,10 @@ export const Main = () => {
             </div>
 
             <div className="content">
-                <Card/>
+                <Card />
+                <Card />
+                <Card />
+                <Card />
             </div>
 
 
