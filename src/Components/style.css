@@ -85,8 +85,8 @@ p {
   width: 100%;
   margin: 0 auto;
   height: 600px;
-  /* background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
-    url(group.png); */
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
+    url(group.png);
   color: white;
   font-size: 1.3rem;
   text-align: justify;
