@@ -2,18 +2,19 @@ import React, { useEffect, useState } from 'react'
 import { Card } from './Card'
 import axios from 'axios'
 
-import { useState } from 'react'
+
 
 export const Main = () => {
 
-const [url, setUrl] = useState("https://gateway.marvel.com/v1/public/characters?ts=1&apikey=d36a1e0d71b87feacf3a52824ecfc4ca&hash=fe3f7e64fa828e449ef675312b956565")
-
-useEffect(()=> {
-    const fetch=async()=>{
-        const res=await axios.get(url)
-    }
-    fetch();
-},[url])
+    const [url, setUrl] = useState("https://gateway.marvel.com/v1/public/characters?ts=1&apikey=d36a1e0d71b87feacf3a52824ecfc4ca&hash=fe3f7e64fa828e449ef675312b956565")
+    const [item, setItem] = useState();
+    useEffect(() => {
+        const fetch = async () => {
+            const res = await axios.get(url)
+            setItem(res.data.data.results);
+        }
+        fetch();
+    }, [url])
 
     return (
         <>
@@ -29,10 +30,10 @@ useEffect(()=> {
             </div>
 
             <div className="content">
-                <Card />
-                <Card />
-                <Card />
-                <Card />
+
+                {
+                    (!item) ? <p>Not Found</p> : <Card data={item} />
+                }
             </div>
 
 
