@@ -1,7 +1,7 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Card } from './Card'
 import axios from 'axios'
-
+const [url, setUrl] = useState()
 export const Main = () => {
     return (
         <>
