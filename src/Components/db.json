@@ -3,92 +3,85 @@
     {
       "id": 1011054,
       "name": "Spider-Man",
-      "thumbnail": "",
+      "thumbnail": "https://en.wikipedia.org/wiki/Spider-Man#/media/File:Web_of_Spider-Man_Vol_1_129-1.png",
       "description": ""
     },
 
     {
       "id": 1009351,
       "name": "Hulk",
-      "description": "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets."
+      "description": "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.",
+      "thumbnail": "https://en.wikipedia.org/wiki/Hulk#/media/File:Hulk_(circa_2019).png"
     },
 
     {
       "id": 1009718,
       "name": "Wolverine",
       "description": "Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers.",
-      "modified": "2016-05-02T12:21:44-0400",
-      "thumbnail": "lorem"
+      "thumbnail": "https://en.wikipedia.org/wiki/Wolverine_(character)#/media/File:Wolverine_(James_'Logan'_Howlett).png"
     },
 
     {
       "id": 1009187,
       "name": "Black Panther",
       "description": "The Prince of Wakanda",
-      "thumbnail": ""
+      "thumbnail": "https://en.wikipedia.org/wiki/Black_Panther_(character)#/media/File:Black_Panther_OS_Vol_1_2.png"
     },
 
     {
       "id": 1009220,
       "name": "Captain America",
       "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
-      "thumbnail": "lorem"
+      "thumbnail": "https://en.wikipedia.org/wiki/Captain_America#/media/File:CaptainAmericaHughes.jpg"
     },
 
     {
       "id": 1009214,
       "name": "Cable",
       "description": "Mutant from the future, the child of Cyclops and Jean Grey from an alternative future",
-      "thumbnail": ""
+      "thumbnail": "https://en.wikipedia.org/wiki/Cable_(character)#/media/File:Cable_(Nathan_Summers).png"
     },
 
     {
       "id": 1009629,
       "name": "Storm",
       "description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.",
-      "thumbnail": ""
-    },
-
-    {
-      "id": 1009629,
-      "name": "Storm",
-      "description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.",
-      "thumbnail": ""
+      "thumbnail": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)#/media/File:Storm_(Ororo_Munroe).png"
     },
 
     {
       "id": 1009288,
       "name": "Elektra",
       "description": "The mysterious assassin for hire.",
-      "thumbnail": ""
+      "thumbnail": "https://en.wikipedia.org/wiki/Elektra_(character)#/media/File:Elektra_3.jpg"
     },
 
     {
       "id": 1009515,
       "name": "Punisher",
       "description": "Frank Castle, a vigilante who punishes those who prey on the weak",
-      "thumbnail": ""
+      "thumbnail": "https://en.wikipedia.org/wiki/Punisher#/media/File:Punisher_(Frank_Castle).jpg"
     },
 
     {
       "id": 1009662,
       "name": "Thing",
       "description": "The radiation that mutated Reed Richards, Sue Storm and Johnny Storm into superhuman beings had also mutated Ben Grimm, transforming him into a grotesque, rock-hided strongman dubbed the Thing.",
-      "thumbnail": ""
+      "thumbnail": "https://en.wikipedia.org/wiki/Ben_Grimm#/media/File:Thing_Dark_Reign_Fantastic_Four.png"
     },
 
     {
       "id": 1009268,
       "name": "Deadpool",
       "description": "Mutant with a twisted sense of humor",
-      "thumbnail": ""
+      "thumbnail": "https://en.wikipedia.org/wiki/Deadpool#/media/File:Deadpool.png"
     },
 
     {
       "id": 1014318,
       "name": "Phoenix",
       "description": "Also known as Jean Grey, a talented and near godlike mutant",
-      "thumbnail": ""
+      "thumbnail": "https://en.wikipedia.org/wiki/Jean_Grey#/media/File:JeanGreyPhoenix.png"
     }
   ]
 }
